@@ -1,0 +1,2 @@
+Git init: inicializa el sistema de control de versiones.
+Usar code. : para abrir el editor de texto en la carpeta donde esta ubicado.
