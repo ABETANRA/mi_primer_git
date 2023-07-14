@@ -1,0 +1,3 @@
+git diff: se usa para ver los cambios realizados en el archivo
+git log: muestra el historial con mucha informacion.
+creando ramas

@@ -1,2 +1,4 @@
 otros comandos y como utilizarlos
 tenemos registrados dos cambios
+tenemos registrados dos cambios
+ver el contenido del archivo
